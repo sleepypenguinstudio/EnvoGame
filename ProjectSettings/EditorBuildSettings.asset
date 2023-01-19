@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2d62005f5309ec547a97fab9728eb697
+  - enabled: 1
+    path: Assets/Scenes/FirstPlanetScene.unity
+    guid: 2107b49851ad06942b3849882f0c1d2e
+  - enabled: 1
+    path: Assets/Scenes/SecondPlanetScene.unity
+    guid: c7aa931ea4bf50942aa67f1757112822
+  - enabled: 1
+    path: Assets/Scenes/Aero.unity
+    guid: 842be055bfde17349adb4455b63c4a98
+  - enabled: 1
+    path: Assets/Scenes/Aqua.unity
+    guid: 856aa81e217af7249b5b132cbcd6f2ca
+  - enabled: 1
+    path: Assets/Scenes/Energo.unity
+    guid: 47e24fc11fb23264681a863bdda1943b
+  - enabled: 1
+    path: Assets/Scenes/Fertilia.unity
+    guid: 049e663f5bf882b4ba4375bf3b1d21fa
+  - enabled: 1
+    path: Assets/Scenes/Methanus.unity
+    guid: 005ecbc57ae097c4aacacdaca3d4c4d8
+  - enabled: 1
+    path: Assets/Scenes/OptionsScene.unity
+    guid: 151c3de540863c94897630c3645581a6
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 10fbcd8fa752966478d55eaecfaa8ddc
+  m_configObjects: {}
